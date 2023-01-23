@@ -1,0 +1,79 @@
+#conteneur
+{
+    border: medium dodgerblue inset;
+    width: 800px;
+    height: 800px;
+    margin: 0px auto 0px auto;
+    position: relative;
+    background-color: grey;
+}
+
+#entete{
+    background-color: azure;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    display: inline;
+
+}
+#photo{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+#corps
+{
+    position: center;
+    background-color:black;
+    width: 800px;
+    height: 400px;
+}
+
+#contenuDroite
+{
+    width: 400px;
+    height: 400px;
+    background-color: darkgray;
+    float: right;
+    text-align: center;
+    color: black;
+}
+
+#planGauche
+{
+    height: 400px;
+    width: 400px;
+    background-color: gainsboro;
+    float: left;
+    text-align: center;
+    color: black;
+}
+
+#pied
+{
+    background-color: #27ced7;
+    width: 800px;
+    height: 200px;
+    text-align: center;
+}
+
+a
+{
+    color: #C34A36;
+}
+
+p
+{
+    text-align: center;
+    color: black;
+}
+
+img
+{
+    margin-right: 35px;
+}
+#CV{
+    text-align: center;
+;
+}
